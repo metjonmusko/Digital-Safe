@@ -13,4 +13,4 @@
 Gjithashtu aplikacioni jone mundeson edhe  me  shum space ( GB ) pra  ai mundeson menyren *Premium*  ku mund te  paguash nje  shume  per me  shume mb pra  per **300GB** duhet te  paguash **10$** ne  vit. 
  +Emri i aplikacionit tone do te  quhet *DigiFile*
  +Ikona e  aplikacionit tone do te  jete ikona e  nje  folderi te zakonshme dhe brenda saj do te  jet shkruar *DigiFile*
- +Ne acountin tone tek aplikacionin mund te  nderroim edhe  adresen e  emailit ose  paswordin tone , ta pershtatim sipas deshires sone por  mund edhe te derroim foton e  profilit sipas deshires sone
+ +Ne acountin tone tek aplikacionin mund te  nderroim edhe  adresen e  emailit ose  paswordin tone , ta pershtatim sipas deshires sone por  mund edhe te nderroim foton e  profilit sipas deshires sone.
