@@ -2,12 +2,12 @@
 
 Grupi jone do te permbaj **6** veta
 
-# Klaudio Muskaj( Drejtuesi i grupit ) 
-#  Suela Xamaxa
-# Ermal Ndoji
-# Skerdilajd Xhaferi 
-# Metjon Musko
-# Elio Pepa  
+_Klaudio Muskaj( Drejtuesi i grupit )_
+_Suela Xamaxa_
+_Ermal Ndoji_
+_Skerdilajd Xhaferi _
+_Metjon Musko_
+_Elio Pepa_  
 
 Emri i Projektit : Secure Backup Software System 
 
