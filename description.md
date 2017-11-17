@@ -10,7 +10,7 @@
 * __Komanda My FILES na  mundeson qe te shofim filet qe kemi te  ruajtur ne  aplikacionin tone 
 * __Komanda DELETE na  mundeson te  deletoim filet qe  nuk duam 
 
-Gjithashtu aplikacioni jone mundeson edhe  me  shum space ( GB ) pra  ai mundeson menyren *Premium*  ku mund te  paguash nje  shume  per me  shume mb pra  per **300GB** duhet te  paguash **10$** ne  vit. 
- +Emri i aplikacionit tone do te  quhet *DigiFile*
- +Ikona e  aplikacionit tone do te  jete ikona e  nje  folderi te zakonshme dhe brenda saj do te  jet shkruar *DigiFile*
- +Ne acountin tone tek aplikacionin mund te  nderroim edhe  adresen e  emailit ose  paswordin tone , ta pershtatim sipas deshires sone por  mund edhe te nderroim foton e  profilit sipas deshires sone.
+       Gjithashtu aplikacioni jone mundeson edhe  me  shum space ( GB ) pra  ai mundeson menyren *Premium*  ku mund te  paguash nje  shume                     per me  shume mb pra  per **300GB** duhet te  paguash **10$** ne  vit. 
+          +Emri i aplikacionit tone do te  quhet *DigiFile*
+          +Ikona e  aplikacionit tone do te  jete ikona e  nje  folderi te zakonshme dhe brenda saj do te  jet shkruar *DigiFile*
+          +Ne acountin tone tek aplikacionin mund te  nderroim edhe  adresen e  emailit ose  paswordin tone , ta pershtatim sipas deshires            sone por  mund edhe te nderroim foton e  profilit sipas deshires sone.
